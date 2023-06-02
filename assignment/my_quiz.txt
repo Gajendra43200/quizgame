@@ -1,0 +1,4 @@
+what is ans 2+2?|2,4,5,3/1
+What is ans 2+2+2?|4,6,8,7/1
+what is ans 2+2*4?|8,6,16,13/2
+What is ans 3+3+3?|4,5,9,4/2
